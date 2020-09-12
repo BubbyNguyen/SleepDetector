@@ -15,7 +15,7 @@
     "dropbox": "^4.0.28",
     "dropbox-v2-api": "^2.4.2",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "react-webcam": "^1.1.1",
     "uuid": "^3.3.2",
     "watson-developer-cloud": "^4.0.1"
